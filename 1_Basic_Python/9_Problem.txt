@@ -1,0 +1,11 @@
+Q1. Write a program using function to find greatest of three numbers.
+
+Q2. Write a python program using function to convert celsius to fahrenheit.
+
+Q3. How do you proved a python print() function to print a new line at the end.
+
+Q4. Write a recursive function to calculate the sum of first n natural numbers.
+
+Q5. Write a python function to remove a given word from a string and strip it at the same time.
+
+Q6. Write a python function to print multiplication table of a given number.

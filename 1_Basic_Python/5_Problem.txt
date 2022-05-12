@@ -1,0 +1,20 @@
+Q1. Write a program to create a dictionary of hindi words with values as their english translation. 
+    Provide user with an option to look it up.
+
+Q2. Write a program to input 8 numbers from the user and display all the unique numbers(Once)
+
+Q3. Can we have a set with 18(int) & 18(str) as a value in it? 
+*>>>>>*  Answer: Yes, We get 2 different values because one is string and other is integer.
+
+Q4. What will be the lengthe of the following set S ?
+    S =set(), S.add(20), S.add(20.0), S.add("20")     
+*>>>>>* Answer: length will be 2
+
+Q5. S={}, what is the type of s ?   
+*>>>>>* Answer:Dictionary
+
+Q6. Create a friend dictionary. Allow 4 friends to enter their favourite language as value & use keys as their
+    names. Assume name are uniques.
+
+Q7. If name of 2 friends are same, what will happen to the program in (Q.6)
+

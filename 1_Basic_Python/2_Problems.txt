@@ -1,0 +1,11 @@
+Q1. Write a program to add 2 numbers ?
+
+Q2. Write a program to find remainder when a number is divided by 2 ?
+
+Q3. Check the type of variable assigned using input() function ?
+
+Q4. Use comparison operator to findout whether a given variable 'A' is greater than 'B' or not ?
+
+Q5. Write a program to finout average of 2 numbers entered by  the user ?
+
+Q6. Write a Python Program to calculate square of number enterd by the user ?

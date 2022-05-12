@@ -1,0 +1,15 @@
+
+Q1. Create class programmer for storing information of few programmers working at Microsoft.
+
+Q2. Write a class calculator capable of square, cube & square root of a number.
+
+Q3. Create a class with a class atribute a; create an object from it and set a directly using object a=0. Does this
+    change the class atribute?
+
+Q4. Add a static method in (Q.2) to great the user with "Hello".
+
+Q5. Write a class Train which has method to book a ticket, get status(no. of seats) and get fare information of trains
+    running under Indian Railway.
+
+Q6. Can you change the self parameter inside a class to something else (say"Harry"). Try changing slef to
+    'slf' or 'harry' and see the effect.

@@ -1,0 +1,16 @@
+Q.1) Write a program to find greatest of 4 numbers entered by the user?
+
+Q.2) Write a program to find out whether a student is pass or fail, if it requires total 40% and at least 33% in 
+     each subject to pass. Assume 3 subjects and total marks as an input from the user.
+
+Q.3) A spam comment is defined as text containing following keywords : "Make a lot of money", "Buy now", "Subscribe
+     this", "Click this". Write a program to detect these spams.
+
+Q.4) Write a program to find wether a given string contains less than 10 characters or not.
+
+Q.5) Write a program to fin out wether a given name is present in a list or not.
+
+Q.6) Write a program to calculate the grade of a student from his marks from the following scheme:
+     90-100:Ex, 80-90:A, 70-80:B, 60-70:C, 50-60:D, <50:F
+
+Q.7) Write a program to find out wether a given post is talking about "Harry" or not.

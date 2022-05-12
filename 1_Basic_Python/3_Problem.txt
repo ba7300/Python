@@ -1,0 +1,10 @@
+Q1. Write a program to display a user entered name followed by Good Afternoon using input() function ?
+
+Q2. Write a program to fill in a letter template given below with the name and date ?
+                Letter = "Dear |<Name>|,
+                          You are selected !
+                          |<Date>|"
+
+Q3. Write a program to detect double space in a string ?
+
+Q4. Replace the double space from above problem with single space ?

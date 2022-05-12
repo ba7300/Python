@@ -1,0 +1,16 @@
+Q.1) Create 2 virtual environments, install few packages in the first one. How do you create a similar environment 
+     in the second one.
+
+Q.2) Write a program to input name, marks and phone number of a student and format it using the format function like
+     below:
+    " The name of the student is Harry, his marks are 73 and phone number is 8329789693"
+
+Q.3) A list contain multiplication table of 7. Write a program to convert it to a vertical string of same numbers (7..14...)
+
+Q.4) Write a program to filter a list of numbers which are divisible by 5.
+
+Q.5) Write a program to find the maximum of the numbers in a list using reduce function.
+
+Q.6) Run pip freeze for the system interpretor : Take the content and create a simple virtualenv.
+
+Q.7) Explore the flask module and create a web server using flask & pyhton.

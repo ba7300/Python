@@ -1,0 +1,8 @@
+Q1. write a program to print poem "Twinkle Twinklw Little Star" in Python ?
+
+Q2. Use REPL and print the table of 5 using it ?
+
+Q3. Install an external model and use it to perform an operation of your interest ?
+
+Q4. Write a python program to print the content of a directory using os module. Search online for the 
+    function which does that ?

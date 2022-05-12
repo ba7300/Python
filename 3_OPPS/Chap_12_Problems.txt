@@ -1,0 +1,20 @@
+
+Q1. Create a class C-2D vector and use it to create another class representing a 3D vector.
+
+Q2. Create a class Pets from a class Animal and further create  class Dog from  class Pets. Add a method Bark to 
+    class Dog.
+
+Q3. Create a class Employee and add salary and increaments properties to it. Write a method salary_after_increment
+    method with a @property decorator with a setter which changes the value of increment based on the salary.
+
+Q4. Write a class Complex to represent complex numbers, along with overloaded operators + and * which adds and
+    multiplies them.
+
+Q5. Write a class vector representing a vector of n dimension. Overload the + and * operator which calculate the sum
+    and the dot product of them.
+
+Q6. Write __str__() method to print the vector as follows:
+    7^i + 8^j + 10^k
+    Assume vector of dimension 3 for this problem.
+
+Q7. overide the __len__() meth0d on vector of (Q5.) to display the dimension of the vector.

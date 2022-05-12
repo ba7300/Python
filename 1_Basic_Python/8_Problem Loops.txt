@@ -1,0 +1,17 @@
+Q1. Write a program to print multiplication table of a given number using For Loop.
+
+Q2. Write a program to greet all the program names stored in a list 'L1' and which starts with "R".
+L1 = ['Ramesh','Suresh','Ritesh','Rakesh','Rupesh','Vikesh','Haresh']
+
+Q3. Attempt Q1 using While Loop.
+
+Q4. Write a program to find out wether a given number is prime or not.
+
+Q5. Write a program to find the sum of first n natural numbers using While Loop.
+
+Q6. Write a program to calculate the factorial of a given number using For Loop.
+
+Q7. Write a program to print following Pattern:  star Pyramid.
+
+Q8. is same as Q.7 , pattern changes.
+                                                
